@@ -147,7 +147,7 @@
   "VGE-DZ-SS15": {
     "set_name": "Break Away Start Deck - Dragonic Overlord",
     "set_url": "https://cardfight.fandom.com/wiki/DZ_Special_Series_15:_Break_Away_Start_Deck_-_Dragonic_Overlord",
-    "scraped": false
+    "scraped": true
   },
   "VGE-DZ-SS16": {
     "set_name": "The Legendary Vanguards",
