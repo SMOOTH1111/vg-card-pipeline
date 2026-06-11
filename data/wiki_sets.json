@@ -2,7 +2,7 @@
   "VG-DZ-BT01": {
     "set_name": "Fated Clash",
     "set_url": "https://cardfight.fandom.com/wiki/DZ_Booster_Set_01:_Fated_Clash",
-    "scraped": false
+    "scraped": true
   },
   "VG-DZ-BT02": {
     "set_name": "Illusionless Strife",
