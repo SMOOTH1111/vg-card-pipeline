@@ -158,5 +158,10 @@
     "set_name": "Strike of Illusionary Shadows",
     "set_url": "https://cardfight.fandom.com/wiki/DZ_Booster_Set_15:_Strike_of_Illusionary_Shadows",
     "scraped": true
+  },
+  "DZ-BT14": {
+    "set_name": "Envoys of the Crimson Moon",
+    "set_url": "https://cardfight.fandom.com/wiki/DZ_Booster_Set_14:_Envoys_of_the_Crimson_Moon",
+    "scraped": true
   }
 }
