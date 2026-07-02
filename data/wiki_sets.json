@@ -163,5 +163,10 @@
     "set_name": "Envoys of the Crimson Moon",
     "set_url": "https://cardfight.fandom.com/wiki/DZ_Booster_Set_14:_Envoys_of_the_Crimson_Moon",
     "scraped": true
+  },
+  "DZ-BT13": {
+    "set_name": "Parallactic Clash",
+    "set_url": "Parallactic Clash",
+    "scraped": true
   }
 }
